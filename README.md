@@ -10,7 +10,7 @@
 </p>
 
 ## 💡 Connect with me :
-
+1
 <p align="left"> <a href="https://twitter.com/Lalit_Dhingadiya" target="blank"><img src="https://img.shields.io/twitter/follow/mehul_variya_?logo=twitter&style=for-the-badge" alt="mehul_variya_" /></a> 
 <a href="https://linkedin.com/in/Lalit-Dhingadiya"><img src="https://img.shields.io/badge/-Mehul%20Variya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp 
 <a href="mailto:mehul639108@gmail.com">
@@ -48,7 +48,7 @@
 ## 🌐 Languages and Tools :
 <p>
   <a >
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,dart,flutter,js,php,nodejs,express,mongodb,mysql,sqlite,aws,postman,notion,html,css,bootstrap,jquery,c,cpp,py,flask,dotnet,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=laravel,js,php,mysql,sqlite,postman,html,css,bootstrap,tailwind,jquery,c,py,flask,dotnet,git,github" />
   </a>
 </p>
 
