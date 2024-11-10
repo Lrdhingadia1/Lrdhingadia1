@@ -26,9 +26,9 @@
 
 - 💬 Ask me about **Kotlin, Java, Android, Dart, Flutter, JavaScript,Node.Js**
 
-- 📫 How to reach me **mehul639108@gmail.com**
+- 📫 How to reach me **lrdhingadiya@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mehul-variya/](https://www.linkedin.com/in/mehul-variya/)
+- 📄 Know about my experiences [(https://www.linkedin.com/in/lalit-dhingadiya-a48425229)/](https://www.linkedin.com/in/lalit-dhingadiya-a48425229)
 
 - ⚡ Fun fact **I love to code**
 
