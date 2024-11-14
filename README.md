@@ -11,10 +11,10 @@
 
 ## 💡 Connect with me :
 1
-<p align="left"> <a href="https://twitter.com/Lalit_Dhingadiya" target="blank"><img src="https://img.shields.io/twitter/follow/mehul_variya_?logo=twitter&style=for-the-badge" alt="mehul_variya_" /></a> 
-<a href="https://linkedin.com/in/Lalit-Dhingadiya"><img src="https://img.shields.io/badge/-Mehul%20Variya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp 
-<a href="mailto:mehul639108@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mehul639108@gmail.com" />
+<p align="left"> <a href="https://twitter.com/Lalit_Dhingadiya" target="blank"><img src="https://img.shields.io/twitter/follow/Lalit_Dhingadiya?logo=twitter&style=for-the-badge" alt="Lalit_Dhingadiya" /></a> 
+<a href="https://linkedin.com/in/Lalit-Dhingadiya"><img src="https://img.shields.io/badge/-Lalit%20Dhingadiya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp 
+<a href="mailto:lrdhingadiya@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lrdhingadiya@gmail.com" />
   </a>
 </p>
 
@@ -22,21 +22,20 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MehulVariya](https://github.com/MehulVariya)
+- 👨‍💻 All of my projects are available at [(https://github.com/Lrdhingadia1)](https://github.com/Lrdhingadia1)
 
 - 💬 Ask me about **Kotlin, Java, Android, Dart, Flutter, JavaScript,Node.Js**
 
 - 📫 How to reach me **lrdhingadiya@gmail.com**
 
-- 📄 Know about my experiences [(https://www.linkedin.com/in/lalit-dhingadiya-a48425229)/](https://www.linkedin.com/in/lalit-dhingadiya-a48425229)
-
+- 📄 Know about my experiences https://www.linkedin.com/in/lalit-dhingadiya-a48425229
 - ⚡ Fun fact **I love to code**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
-<a href="https://twitter.com/mehul_variya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehul_variya_" height="30" width="40" /></a>
+<a href="https://twitter.com/Lalit_Dhingadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehul_variya_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehul-variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-variya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mehul-variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mehul-variya" height="30" width="40" /></a>
 <a href="https://fb.com/mehul.r.variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehul.r.variya" height="30" width="40" /></a>
