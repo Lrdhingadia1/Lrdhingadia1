@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [(https://github.com/Lrdhingadia1)](https://github.com/Lrdhingadia1)
 
-- 💬 Ask me about **Kotlin, Java, Android, Dart, Flutter, JavaScript,Node.Js**
+- 💬 Ask me about **Laravel, React,HTML, Css, JavaScript ,Mysql ,Jquery**
 
 - 📫 How to reach me **lrdhingadiya@gmail.com**
 
