@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-![code](https://github.com/MehulVariya/Happy-Valentine-Day-Wishes/blob/main/image_code.gif)
+![code](https://github.com/Lrdhingadia1/Lrdhingadia1/blob/main/image_code.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitdhingadiya&label=Profile%20views&color=0e75b6&style=flat" alt="Lalitdhingadiya" /> </p>
 
