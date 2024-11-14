@@ -12,7 +12,7 @@
 ## 💡 Connect with me :
 1
 <p align="left"> <a href="https://twitter.com/Lalit_Dhingadiya" target="blank"><img src="https://img.shields.io/twitter/follow/Lalit_Dhingadiya?logo=twitter&style=for-the-badge" alt="Lalit_Dhingadiya" /></a> 
-<a href="https://linkedin.com/in/Lalit-Dhingadiya"><img src="https://img.shields.io/badge/-Lalit%20Dhingadiya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp 
+<a href="https://www.linkedin.com/in/lalit-dhingadiya-a48425229"><img src="https://img.shields.io/badge/-Lalit%20Dhingadiya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp 
 <a href="mailto:lrdhingadiya@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lrdhingadiya@gmail.com" />
   </a>
